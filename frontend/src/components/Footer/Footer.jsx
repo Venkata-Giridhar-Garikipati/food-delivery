@@ -8,9 +8,9 @@ const Footer = () => {
       <div className="footer-content">
         <div className="footer-content-left">
            <img className='logo1' src={assets.logo1} alt='' />
-           <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-            Soluta minus dolorem ipsum vero error nemo ea id iusto voluptate quis,
-             corporis fugit aliquid ex doloremque nulla, consequuntur consequatur sed doloribus.</p> 
+           <p>Got questions about your order or need help with our food delivery services?
+             We're here to assist you! Whether you're craving more information about our menu, 
+             have a special request, or need support with a recent order, don't hesitate to reach out.</p> 
              <div className="footer-social-icons">
                 <img src={assets.facebook_icon} alt='' />
                 <img src={assets.twitter_icon} alt='' />
